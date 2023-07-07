@@ -9,5 +9,6 @@
 @media screen and (max-width: 900px) {
   .avatar {
     padding: 0 0 32px 0;
+    grid-template-columns: max-content min-content;
   }
 }
