@@ -12,3 +12,9 @@
     grid-template-columns: max-content min-content;
   }
 }
+
+@media screen and (max-width: 359px) {
+  .avatar {
+    max-width: 272px;
+  }
+}
