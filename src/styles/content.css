@@ -197,6 +197,7 @@
 @import url(../blocks/fieldset/fieldset.css);
 @import url(../blocks/fieldset/__row-group/fieldset__row-group.css);
 @import url(../blocks/fieldset/__row-group/_type/fieldset__row-group_type_block.css);
+@import url(../blocks/fieldset/__row-group/_style/fieldset__row-group_style_wrapped.css);
 @import url(../blocks/fieldset/__fullsize-input/fieldset__fullsize-input.css);
 @import url(../blocks/fieldset/_template/fieldset_template_grid-form.css);
 @import url(../blocks/fieldset/_template/fieldset_template_grid-project-links.css);
