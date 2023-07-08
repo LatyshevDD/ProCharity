@@ -214,7 +214,7 @@
 @import url(../blocks/fieldset/_template/fieldset_template_grid-rate.css);
 @import url(../blocks/fieldset/_style/fieldset_style_p-none.css);
 @import url(../blocks/fieldset/_style/fieldset_style_wrapped.css);
-
+@import url(../blocks/fieldset/_pb/fieldset_pb_mobile.css);
 
 /* textarea */
 @import url(../blocks/textarea/textarea.css);
