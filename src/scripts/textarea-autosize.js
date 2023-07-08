@@ -1,6 +1,6 @@
 function setHeight(el) {
   el.style.height = 'auto';
-  el.style.height = el.scrollHeight + 2 + 'px';
+  el.style.height = el.scrollHeight + 'px';
 }
 
 export function handleTextareaAutosize(selector) {
@@ -10,6 +10,8 @@ export function handleTextareaAutosize(selector) {
     t.addEventListener('input', () => setHeight(t));
 
     // "Разворачиваем поле" при загрузке страницы (если в поле есть текст)
-    setHeight(t);
+    if (t.value.length > 0) {
+      setHeight(t);
+    };
   })
 }
