@@ -24,3 +24,9 @@
 .avatar__input + .avatar__label:hover {
   text-decoration: none;
 }
+
+@media screen and (max-width: 359px) {
+  .avatar__input + .avatar__label {
+    font-size: 14px;
+  }
+}
