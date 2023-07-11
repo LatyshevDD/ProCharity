@@ -2,3 +2,5 @@ node_modules
 dist
 .idea
 .vscode
+/.editorconfig
+.DS_Store
