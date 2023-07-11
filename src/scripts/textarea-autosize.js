@@ -1,6 +1,6 @@
 function setHeight(el) {
   el.style.height = 'auto';
-  el.style.height = el.scrollHeight + 'px';
+  el.style.height = el.scrollHeight + 2 + 'px';
 }
 
 export function handleTextareaAutosize(selector) {
