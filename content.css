@@ -250,7 +250,7 @@
 .link-published__title{color:#58646a;font-size:16px;font-weight:400;line-height:24px;margin:0;padding:0 0 0 47px}
 .link-published__icon{background:url(50f6dfdb5563e006d55c.svg) 50% no-repeat;height:32px;left:15px;position:absolute;top:16px;width:32px}
 .link-published__content{border:1px solid #a0abb5;border-radius:8px;padding:19px 16px;position:relative}@media screen and (max-width:900px){.link-published__content{padding:14px 16px}}
-.rate{display:flex;margin:0;padding:0;width:100%}@media screen and (max-width:900px){.rate{flex-wrap:wrap}}
+.rate{align-items:center;display:flex;margin:0;padding:0;width:100%}@media screen and (max-width:900px){.rate{flex-wrap:wrap}}
 .rate__wrapper{width:50%}@media screen and (max-width:900px){.rate__wrapper{width:100%}}
 .rate__radio-switcher{grid-template-columns:repeat(5,1fr);width:50%}@media screen and (max-width:900px){.rate__radio-switcher{grid-template-columns:repeat(5,1fr);grid-template-rows:1fr;width:100%}}
 .rate__radio-label{margin:0 -1px 0 0}.rate__radio-label:last-of-type{margin:0}.radio-switcher__input:checked+.rate__radio-label{z-index:1}.radio-switcher__input:last-of-type:checked+.rate__radio-label{border-left-color:#72d0dc}@media screen and (max-width:900px){.rate__radio-label:first-of-type{border-radius:6px 0 0 6px;border-right:none;margin:0 -1px 0 0}.rate__radio-label:last-of-type{border-radius:0 6px 6px 0;border-top-color:#048aa7;margin:0}.radio-switcher__input:first-of-type:checked+.rate__radio-label{border:1px solid #048aa7}}
