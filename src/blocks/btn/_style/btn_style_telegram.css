@@ -17,6 +17,7 @@
 
 @media screen and (max-width: 900px) {
   .btn_style_telegram {
+    padding: 8px 12px 8px 58px;
     max-width: max-content;
     justify-self: end;
   }
