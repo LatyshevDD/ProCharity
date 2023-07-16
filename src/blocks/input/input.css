@@ -1,4 +1,5 @@
 .input {
+  border-radius: 6px;
   box-sizing: border-box;
   height: 48px;
   position: relative;
