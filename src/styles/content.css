@@ -247,7 +247,6 @@
 @import url(../blocks/input/__field/_padding/input__field_padding_center.css);
 @import url(../blocks/input/__field/_interval/input__field_interval_right_large.css);
 @import url(../blocks/input/__field/_interval/input__field_interval_right_small.css);
-@import url(../blocks/input/_error/input_error.css);
 @import url(../blocks/input/_type/input_type_bottom-interval.css);
 @import url(../blocks/input/__label/input__label.css);
 @import url(../blocks/input/__btn/input__btn.css);

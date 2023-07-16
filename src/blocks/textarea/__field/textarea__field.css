@@ -3,7 +3,7 @@
   -webkit-appearance: none;
   background: none;
   background: #f1f5f9;
-  border: 0;
+  border: 1px solid transparent;
   border-radius: 6px;
   box-sizing: border-box;
   color: #374045;
